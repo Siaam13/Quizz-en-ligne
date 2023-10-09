@@ -1,0 +1,85 @@
+{
+    "questionnaire": [
+      {
+        "question": "Quel est le mot italien pour 'maison' ?",
+        "answers": ["Casa", "Auto", "Scuola", "Ristorante"],
+        "correctAnswer": "Casa",
+        "explanation": "Le mot italien pour 'maison' est 'Casa'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Comment dit-on 'bonjour' en italien ?",
+        "answers": ["Buongiorno", "Buonasera", "Ciao", "Grazie"],
+        "correctAnswer": "Buongiorno",
+        "explanation": "En italien, on dit 'Buongiorno' pour 'bonjour'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le mot italien pour 'merci' ?",
+        "answers": ["Grazie", "Prego", "Scusa", "Ciao"],
+        "correctAnswer": "Grazie",
+        "explanation": "Le mot italien pour 'merci' est 'Grazie'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Comment dit-on 'au revoir' en italien ?",
+        "answers": ["Arrivederci", "Ciao", "Buongiorno", "Grazie"],
+        "correctAnswer": "Arrivederci",
+        "explanation": "En italien, on dit 'Arrivederci' pour 'au revoir'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le mot italien pour 'amour' ?",
+        "answers": ["Amore", "Famiglia", "Musica", "Gioia"],
+        "correctAnswer": "Amore",
+        "explanation": "Le mot italien pour 'amour' est 'Amore'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Comment dit-on 'j'aime' en italien ?",
+        "answers": ["Mi piace", "Mi dispiace", "Mi chiamo", "Mi scuso"],
+        "correctAnswer": "Mi piace",
+        "explanation": "En italien, on dit 'Mi piace' pour 'j'aime'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le mot italien pour 'soleil' ?",
+        "answers": ["Sole", "Luna", "Stella", "Pianeta"],
+        "correctAnswer": "Sole",
+        "explanation": "Le mot italien pour 'soleil' est 'Sole'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Comment dit-on 'heure' en italien ?",
+        "answers": ["Ora", "Giorno", "Settimana", "Mese"],
+        "correctAnswer": "Ora",
+        "explanation": "En italien, on dit 'Ora' pour 'heure'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le mot italien pour 'nuit' ?",
+        "answers": ["Notte", "Giorno", "Sera", "Mattina"],
+        "correctAnswer": "Notte",
+        "explanation": "Le mot italien pour 'nuit' est 'Notte'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Comment dit-on 'école' en italien ?",
+        "answers": ["Scuola", "Casa", "Libro", "Bambino"],
+        "correctAnswer": "Scuola",
+        "explanation": "En italien, on dit 'Scuola' pour 'école'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      }
+    ]
+  }
+  

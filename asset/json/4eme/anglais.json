@@ -1,0 +1,85 @@
+{
+    "questionnaire": [
+      {
+        "question": "What is the capital of the United Kingdom?",
+        "answers": ["London", "Paris", "Berlin", "Madrid"],
+        "correctAnswer": "London",
+        "explanation": "London is the capital of the United Kingdom.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Which of these is a fruit?",
+        "answers": ["Apple", "Car", "Chair", "Book"],
+        "correctAnswer": "Apple",
+        "explanation": "An apple is a fruit.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "What is the opposite of 'happy'?",
+        "answers": ["Sad", "Angry", "Excited", "Tired"],
+        "correctAnswer": "Sad",
+        "explanation": "Sad is the opposite of happy.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "How do you say 'Bonjour' in English?",
+        "answers": ["Hello", "Goodbye", "Thank you", "Yes"],
+        "correctAnswer": "Hello",
+        "explanation": "Hello is the English translation of 'Bonjour.'",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "What is the third month of the year?",
+        "answers": ["March", "May", "June", "April"],
+        "correctAnswer": "March",
+        "explanation": "March is the third month of the year.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars",
+        "explanation": "Mars is often referred to as the 'Red Planet' due to its reddish appearance.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+        "correctAnswer": "Blue Whale",
+        "explanation": "The blue whale is the largest mammal on Earth.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": ["7", "5", "6", "8"],
+        "correctAnswer": "7",
+        "explanation": "There are seven continents on Earth.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "What is the past tense of 'run'?",
+        "answers": ["Ran", "Runned", "Running", "Runs"],
+        "correctAnswer": "Ran",
+        "explanation": "'Ran' is the past tense of 'run.'",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Which of the following is a primary color?",
+        "answers": ["Red", "Purple", "Green", "Orange"],
+        "correctAnswer": "Red",
+        "explanation": "Red is a primary color.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      }
+    ]
+  }
+  

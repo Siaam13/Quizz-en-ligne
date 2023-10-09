@@ -1,0 +1,85 @@
+{
+    "questionnaire": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+        "correctAnswer": "Paris",
+        "explanation": "Paris est la capitale de la France.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel est le plus grand pays du monde en termes de superficie ?",
+        "answers": ["Russie", "Canada", "Chine", "États-Unis"],
+        "correctAnswer": "Russie",
+        "explanation": "La Russie est le plus grand pays du monde en termes de superficie.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel est le nom de la plus longue rivière du monde ?",
+        "answers": ["Le Nil", "L'Amazone", "Le Mississippi", "Le Yangtsé"],
+        "correctAnswer": "L'Amazone",
+        "explanation": "L'Amazone est la plus longue rivière du monde.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel désert est le plus grand du monde ?",
+        "answers": ["Le Sahara", "Le désert d'Arabie", "Le désert de Gobi", "Le Kalahari"],
+        "correctAnswer": "Le Sahara",
+        "explanation": "Le Sahara est le plus grand désert du monde.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel océan entoure l'Antarctique ?",
+        "answers": ["L'océan Austral", "L'océan Pacifique", "L'océan Atlantique", "L'océan Indien"],
+        "correctAnswer": "L'océan Austral",
+        "explanation": "L'océan Austral entoure l'Antarctique.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel est le pays le plus peuplé du monde ?",
+        "answers": ["La Chine", "L'Inde", "Les États-Unis", "Le Brésil"],
+        "correctAnswer": "La Chine",
+        "explanation": "La Chine est le pays le plus peuplé du monde.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quelle est la plus haute montagne du monde ?",
+        "answers": ["L'Everest", "Le K2", "Le Kilimandjaro", "Le Mont Blanc"],
+        "correctAnswer": "L'Everest",
+        "explanation": "L'Everest est la plus haute montagne du monde.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel pays est situé à la pointe sud de l'Afrique ?",
+        "answers": ["L'Afrique du Sud", "Le Kenya", "Le Nigeria", "L'Égypte"],
+        "correctAnswer": "L'Afrique du Sud",
+        "explanation": "L'Afrique du Sud est située à la pointe sud de l'Afrique.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "answers": ["Le lac Victoria", "Le lac Tanganyika", "Le lac Malawi", "Le lac Turkana"],
+        "correctAnswer": "Le lac Victoria",
+        "explanation": "Le lac Victoria est le plus grand lac d'Afrique.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      },
+      {
+        "question": "Dans quel continent se trouve la forêt amazonienne ?",
+        "answers": ["L'Amérique du Sud", "L'Afrique", "L'Asie", "L'Amérique du Nord"],
+        "correctAnswer": "L'Amérique du Sud",
+        "explanation": "La forêt amazonienne se trouve en Amérique du Sud.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Ne baisse pas les bras, essaie encore."
+      }
+    ]
+  }
+  
